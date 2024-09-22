@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: borakostem/demo-app:4aadd2c
+        image: borakostem/demo-app:09ecfd8
         ports:
         - containerPort: 5000
         resources:
